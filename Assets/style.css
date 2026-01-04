@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Excalifont-Regular';
+    src: url('Fonts/Excalifont-Regular.ttf') format('truetype');
+}
+
+.annotation {
+    font-family: 'Excalifont-Regular', sans-serif;
+    font-size: 16px;
+}
